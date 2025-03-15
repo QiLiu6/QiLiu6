@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Qi Liu!  
 
-Welcome to my GitHub profile! I'm an incoming PhD Student passionate about Climate Modeling.
+Welcome to my GitHub profile! I'm a prospective PhD student at Courant Institute passionate about Climate Modeling.
 
 
 ## 📫 Connect with Me  
